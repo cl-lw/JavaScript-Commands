@@ -215,69 +215,69 @@ ________________________________________________________________________________
 
  ______________________________________________________________________________________________________________
 
- > > >   ` Zero fill right shift `
+ > > >  ` Zero fill right shift `
  
  
  ## Functions
  
  **These perform a task to produce a related output, including Outputting Data and Global Functions.**
  
-    **alert()**     -     ` An alert box is displayed with an OK button  ` 
+    alert()    -     ` An alert box is displayed with an OK button  ` 
    ______________________________________________________________________________________________________________
    
-    **confirm()**    -     `    Displays a message box with ok/cancel options     `
+    confirm()    -     `    Displays a message box with ok/cancel options     `
    
    ______________________________________________________________________________________________________________
   
-    **console.log()**    -     `    Writes information to the browser      `
+    console.log()   -     `    Writes information to the browser      `
    
    ______________________________________________________________________________________________________________
 
-    ** document.write() **    -     `    Write directly to the HTML documen    `
+     document.write()    -     `    Write directly to the HTML documen    `
 
    ______________________________________________________________________________________________________________
    
-    **prompt()**    -     `     A pop up box that needs user input    `
+    prompt()    -     `     A pop up box that needs user input    `
    
    ______________________________________________________________________________________________________________
    
-    **decodeURIComponent()"**  ` Decodes a URI component ` 
+    decodeURIComponent()  ` Decodes a URI component ` 
    
    ______________________________________________________________________________________________________________
    
-    **encodeURI() **  `  Encodes a URI into UTF-8  ` 
+    encodeURI()  `  Encodes a URI into UTF-8  ` 
 
    ______________________________________________________________________________________________________________
 
-    **decodeURI()**   `  Decodes a Uniform Resource Identifier (URI) created by encodeURI  ` 
+    decodeURI()   `  Decodes a Uniform Resource Identifier (URI) created by encodeURI  ` 
 
    ______________________________________________________________________________________________________________
 
-    **encodeURIComponent**  `  Encodes a URI using numbers to represent letters  ` 
+    encodeURIComponent  `  Encodes a URI using numbers to represent letters  ` 
 
    ______________________________________________________________________________________________________________
 
-    **eval()**    `  Evaluates JavaScript code represented as a string  ` 
-
-   ______________________________________________________________________________________________________________
-   
-      **isFinite() **    `  Determines whether a passed value is a finite number  ` 
+     eval()    `  Evaluates JavaScript code represented as a string  ` 
 
    ______________________________________________________________________________________________________________
    
-      **isNaN()**    `  Determines whether a value is NaN or notg  ` 
+      isFinite()    `  Determines whether a passed value is a finite number  ` 
 
    ______________________________________________________________________________________________________________
    
-      **Number()**    `  Returns a number converted from its argument  ` 
+      isNaN()   `  Determines whether a value is NaN or notg  ` 
 
    ______________________________________________________________________________________________________________
    
-      **parseFloat()**    `  Parses an argument and returns a floating point number ` 
+      Number()  `  Returns a number converted from its argument  ` 
 
    ______________________________________________________________________________________________________________
    
-      **parseInt()**    `  Parses its argument and returns an integer  ` 
+      parseFloat()    `  Parses an argument and returns a floating point number ` 
+
+   ______________________________________________________________________________________________________________
+   
+      parseInt()    `  Parses its argument and returns an integer  ` 
 
    ______________________________________________________________________________________________________________
    
