@@ -11,98 +11,98 @@ When working with JavaScript, try our complete ‘cheat sheet’ of JavaScript c
 
 
 
-   **var**     -     ` The most common variable. Var variables move to the top when code is executed  ` 
+   	var     -     ` The most common variable. Var variables move to the top when code is executed  ` 
    ______________________________________________________________________________________________________________
    
-   **const**    -     `      A variable that cannot be reassigned and is not accessible before they appear within the code       `
+   	const    -     `      A variable that cannot be reassigned and is not accessible before they appear within the code       `
    
    ______________________________________________________________________________________________________________
   
-   **let**    -     `      The let variable can be reassigned but not re-declared       `
+   	let    -     `      The let variable can be reassigned but not re-declared       `
    
    ______________________________________________________________________________________________________________
 
-   **var age= 23**    -     `     Numbers    `
+   	var age= 23    -     `     Numbers    `
 
    ______________________________________________________________________________________________________________
    
-   **var x**    -     `     Variables    `
+   	var x   -     `     Variables    `
    
    ______________________________________________________________________________________________________________
    
-   **var a = "init"**  ` Text (strings) ` 
+   	var a = "init"  ` Text (strings) ` 
    
    ______________________________________________________________________________________________________________
    
-   **var b = 1 + 2 + 3**  `  Operations  ` 
+   	var b = 1 + 2 + 3  `  Operations  ` 
 
    ______________________________________________________________________________________________________________
 
-   **var c = true**   `  True or false statements  ` 
+   	var c = true   `  True or false statements  ` 
 
    ______________________________________________________________________________________________________________
 
-   **const PI = 3.14**  `   Constant numbers  ` 
+   	const PI = 3.14  `   Constant numbers  ` 
 
    ______________________________________________________________________________________________________________
 
-   **var name = {firstName:"John", lastName:”Doe"}**    `  Objects  ` 
+   	var name = {firstName:"John", lastName:”Doe"}    `  Objects  ` 
 
    ______________________________________________________________________________________________________________
 
-  **concat()** ` Join several arrays into one` 
+  	concat() ` Join several arrays into one` 
 
    ______________________________________________________________________________________________________________
 
-  **indexOf()** `  Returns the first position at which a given element appears in an array  ` 
+  	indexOf() `  Returns the first position at which a given element appears in an array  ` 
 
    ______________________________________________________________________________________________________________
 
-  **join()**  `  Combine elements of an array into a single string and return the string  ` 
+  	join()  `  Combine elements of an array into a single string and return the string  ` 
 
    ______________________________________________________________________________________________________________
 
-  **lastIndexOf()**  `  Gives the last position at which a given element appears in an array  ` 
+	lastIndexOf()  `  Gives the last position at which a given element appears in an array  ` 
 
    ______________________________________________________________________________________________________________
 
-  **pop()**  ` Removes the last element of an array  ` 
+  	pop()  ` Removes the last element of an array  ` 
 
    ______________________________________________________________________________________________________________
 
-  **push()** `  Add a new element at the end  ` 
+  	push() `  Add a new element at the end  ` 
 
    ______________________________________________________________________________________________________________
 
-  **reverse()** `  Reverse the order of the elements in an array  ` 
+  	reverse() `  Reverse the order of the elements in an array  ` 
 
    ______________________________________________________________________________________________________________
 
 
-**shift()** `  Remove the first element of an array  ` 
+	shift() `  Remove the first element of an array  ` 
    ______________________________________________________________________________________________________________
 
-**slice()** ` Pulls a copy of a portion of an array into a new array of 4 24  ` 
-
-   ______________________________________________________________________________________________________________
-
-**sort()**  ` Sorts elements alphabetically  ` 
+	slice() ` Pulls a copy of a portion of an array into a new array of 4 24  ` 
 
    ______________________________________________________________________________________________________________
 
-**splice()**  ` Adds elements in a specified way and position  ` 
+	sort()  ` Sorts elements alphabetically  ` 
 
    ______________________________________________________________________________________________________________
 
-**toString()**  ` Converts elements to strings  ` 
+	splice() ` Adds elements in a specified way and position  ` 
 
    ______________________________________________________________________________________________________________
 
-**unshift()**  ` Adds a new element to the beginning  `   
+	toString()  ` Converts elements to strings  ` 
 
    ______________________________________________________________________________________________________________
 
-**lueOf()** ` Returns the primitive value of the specified object  ` 
+	unshift() ` Adds a new element to the beginning  `   
+
+   ______________________________________________________________________________________________________________
+
+	lueOf() ` Returns the primitive value of the specified object  ` 
    
 
    
@@ -113,109 +113,109 @@ When working with JavaScript, try our complete ‘cheat sheet’ of JavaScript c
  ______________________________________________________________________________________________________________
  
 
-(plus sign) +  `Addition`
+	(plus sign) +  `Addition`
 
 ______________________________________________________________________________________________________________
 
-- ` Subtraction `
+	- ` Subtraction `
 
 ______________________________________________________________________________________________________________
 
-*   ` Multiplication `
+	*   ` Multiplication `
 
  ______________________________________________________________________________________________________________
  
  
-/  ` Division `
+	/  ` Division `
 
  ______________________________________________________________________________________________________________
  
  
- (..) Grouping operator   ` Grouping operator `
+ 	(..) Grouping operator   ` Grouping operator `
 
  ______________________________________________________________________________________________________________
  
- %   ` Remander `
+	 %   ` Remander `
 
  ______________________________________________________________________________________________________________
  
- (two plus signs) ++   ` (two plus signs) ++ `
+ 	(two plus signs) ++   ` (two plus signs) ++ `
 
  ______________________________________________________________________________________________________________
  
- --   ` Decrement numbers `
+	 --   ` Decrement numbers `
 
  ______________________________________________________________________________________________________________
  
- ==   ` Equal to `
+	 ==   ` Equal to `
 
  ______________________________________________________________________________________________________________
  
- ===   ` Equal value and equal type `
+	 ===   ` Equal value and equal type `
 
  ______________________________________________________________________________________________________________
  
- !=   ` Not equal `
+	 !=   ` Not equal `
 
  ______________________________________________________________________________________________________________
  
- !==   ` Not equal value or not equal type `
+ 	!==   ` Not equal value or not equal type `
 
  ______________________________________________________________________________________________________________
  
- >  ` Greater than `
+	 >  ` Greater than `
 
  ______________________________________________________________________________________________________________
  
- <   `Less than `
+ 	<   `Less than `
 
  ______________________________________________________________________________________________________________
 
- >=   ` Greater than or equal to `
+ 	>=   ` Greater than or equal to `
 
  ______________________________________________________________________________________________________________
 
- <=   ` Less than or equal to `
+	 <=   ` Less than or equal to `
 
  ______________________________________________________________________________________________________________
 
- ?   ` Ternary operator `
+	 ?   ` Ternary operator `
 
  ______________________________________________________________________________________________________________
 
- !!   ` Logical or `
+ 	!!   ` Logical or `
 
  ______________________________________________________________________________________________________________
 
- !  ` Logical not `
+	 !  ` Logical not `
 
  ______________________________________________________________________________________________________________
 
- &   ` AND statement `
+	 &   ` AND statement `
 
  ______________________________________________________________________________________________________________
 
- |   ` OR statement `
+	 |   ` OR statement `
 
  ______________________________________________________________________________________________________________
 
- ~   ` NOT `
+ 	~   ` NOT `
 
  ______________________________________________________________________________________________________________
 
- ^   ` XOR `
+ 	^   ` XOR `
 
  ______________________________________________________________________________________________________________
 
- <<   ` Left shift `
+	 <<   ` Left shift `
 
  ______________________________________________________________________________________________________________
 
- > >   ` Right Shift `
+ 	> >   ` Right Shift `
 
  ______________________________________________________________________________________________________________
 
- > > >  ` Zero fill right shift `
+ 	> > >  ` Zero fill right shift `
  
  
  ## Functions
