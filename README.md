@@ -43,33 +43,19 @@ When working with JavaScript, try our complete ‘cheat sheet’ of JavaScript c
 
   **reverse()** `  Reverse the order of the elements in an array  ` 
 
-shift()
+**shift()** `  Remove the first element of an array  ` 
 
-Remove the first element of an array
+**slice()** ` Pulls a copy of a portion of an array into a new array of 4 24  ` 
 
-slice()
+**sort()**  ` Sorts elements alphabetically  ` 
 
-Pulls a copy of a portion of an array into a new array of 4 24
+**splice()**  ` Adds elements in a specified way and position  ` 
 
-sort()
+**toString()**  ` Converts elements to strings  ` 
 
-Sorts elements alphabetically
+**unshift()**  ` Adds a new element to the beginning  `   
 
-splice()
-
-Adds elements in a specified way and position
-
-toString()
-
-Converts elements to strings
-
-unshift()
-
-Adds a new element to the beginning
-
-valueOf()
-
-Returns the primitive value of the specified object
+**lueOf()** ` Returns the primitive value of the specified object  ` 
    
-
+## Operators
 
