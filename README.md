@@ -4,11 +4,18 @@
 
 # JavaScript Command Sheet Guide
 
-Imagine a guide... that explores the many possibilities for your [discord.js](https://github.com/discordjs/discord.js) bot.
+When working with JavaScript, try our complete ‘cheat sheet’ of JavaScript commands. 
 
-## About
 
-This guide is aimed at users who are either unfamiliar or inexperienced with Node.js and creating Discord bots. It assumes you have a basic understanding of JavaScript.
+ **Primitives**: When you access a primitive type you work directly on its value.
 
-There are many different subjects covered, such as:
+    - `string`
+    - `number`
+    - `boolean`
+    - `null`
+    - `undefined`
+    - `symbol`
+    - `bigint`
+
+
 
