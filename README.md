@@ -12,14 +12,19 @@ When working with JavaScript, try our complete ‘cheat sheet’ of JavaScript c
 
 
    **var**     -     ` The most common variable. Var variables move to the top when code is executed  ` 
+   ______________________________________________________________________________________________________________
    
    **const**    -     `      A variable that cannot be reassigned and is not accessible before they appear within the code       `
+      ______________________________________________________________________________________________________________
    
    **let**    -     `      The let variable can be reassigned but not re-declared       `
-   
+      ______________________________________________________________________________________________________________
+
    **var age= 23**    -     `     Numbers    `
+   ______________________________________________________________________________________________________________
    
    **var x**    -     `     Variables    `
+   ______________________________________________________________________________________________________________
    
    **var a = "init"**  ` Text (strings) ` 
    
