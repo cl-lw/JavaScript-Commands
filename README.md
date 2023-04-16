@@ -218,7 +218,8 @@ ________________________________________________________________________________
  > > >   ` Zero fill right shift `
  
  
- #Functions
+ ##Functions
+ 
  **These perform a task to produce a related output, including Outputting Data and Global Functions.**
  
 Coming Soon
