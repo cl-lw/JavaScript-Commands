@@ -6,7 +6,7 @@
 
 When working with JavaScript, try our complete ‘cheat sheet’ of JavaScript commands. 
 
-
+## Types
  **Primitives**: When you access a primitive type you work directly on its value.
 
     - `string`
