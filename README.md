@@ -8,7 +8,8 @@ When working with JavaScript, try our complete ‘cheat sheet’ of JavaScript c
 
 ## Variables
 
-   var -`The most common variable. Var variables move to the top when code is executed`
+
+   **var** -`The most common variable. Var variables move to the top when code is executed`
     - `number`
     - `boolean`
     - `null`
