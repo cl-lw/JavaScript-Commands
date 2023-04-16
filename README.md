@@ -19,29 +19,18 @@ When working with JavaScript, try our complete ‘cheat sheet’ of JavaScript c
    
    **var x**    -     `     Variables    `
    
-   var a = "init"
+   var a = "init"  Text (strings)
 
-Text (strings)
+var b = 1 + 2 + 3   Operations
 
-var b = 1 + 2 + 3
+var c = true   True or false statements
 
-Operations
+const PI = 3.14   Constant numbers
 
-var c = true
+var name = {firstName:"John", lastName:”Doe"}     Objects
 
-True or false statements
-
-const PI = 3.14
-
-Constant numbers
-
-var name = {firstName:"John", lastName:”Doe"}
-
-Objects
-
-concat()
-
-Join several arrays into one
+**concat()**` 
+Join several arrays into one` 
 
 indexOf()
 
